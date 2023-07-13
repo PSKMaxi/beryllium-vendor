@@ -823,6 +823,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     CneApp \
+    libplatformconfig \
     IWlanService \
     SoterService \
     TimeService \
